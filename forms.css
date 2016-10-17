@@ -1,0 +1,7 @@
+.styled-input {
+    border: solid 3px #0087c1;
+    width: 200px;
+    font-size: 28px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
